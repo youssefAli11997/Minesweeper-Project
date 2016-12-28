@@ -33,7 +33,7 @@ int numberOfQuestionMarks = 0;
 // in our header-file functions: arr==hidden_field , arr2==shown_field
 
 int main(){
-    //welcomeScreen();
+    welcomeScreen();
     int mode,i,j,n,m,numberOfMoves = 0,time_interval=0,gameEnd=0,raw,col,ContOrSave;
     char action;
     char a ='X',b='Y';
@@ -52,7 +52,7 @@ int main(){
     time_t sec1,extra = 0;
     sec1 = time (NULL);
 
-    //mainMenu();
+    mainMenu();
     mode = checkMode();
 
     if(mode==1){
