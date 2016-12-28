@@ -2,7 +2,7 @@
     Project: MineSweeper Game - CMD Version
 
     Created By: Youssef Ali Hassan Ali
-                Mohamed Mashaal  El-Agha
+                Mohamed Mashaal El-Agha
                 Ahmed Mohamed El-Bawab
 */
 
