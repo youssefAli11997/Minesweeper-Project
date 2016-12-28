@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1480888063 source:d:\programming\projects\c - csed laps\minesweeper - the final project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481820511 source:d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper - the final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1482932314 source:d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<string.h>
+	<math.h>
+	"headers/newGameStuff.h"
+	"headers/inputValidation.h"
+	"headers/save.h"
+	"headers/graphicsStuff.h"
+	"headers/dealingWithCells.h"
+	"headers/winStuff.h"
+	"headers/loseStuff.h"
+	"headers/printingAndOther.h"
+
+1482234027 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\newgamestuff.h
+
+1482680122 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\inputvalidation.h
+
+1482683432 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\save.h
+
+1482676197 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\graphicsstuff.h
+
+1482575044 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\dealingwithcells.h
+
+1482098368 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\winstuff.h
+
+1482575074 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\losestuff.h
+
+1482576990 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\printingandother.h
+
+1482796567 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\newgamestuff.h
+
+1482680122 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\inputvalidation.h
+
+1482683432 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\save.h
+
+1482676197 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\graphicsstuff.h
+
+1482931235 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\dealingwithcells.h
+
+1482098368 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\winstuff.h
+
+1482575074 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\losestuff.h
+
+1482576990 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-ff\minesweeper-the-final-project (13)\minesweeper - the final project\headers\printingandother.h
+
+1482937138 source:d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<string.h>
+	<math.h>
+	"headers/newGameStuff.h"
+	"headers/inputValidation.h"
+	"headers/save.h"
+	"headers/graphicsStuff.h"
+	"headers/dealingWithCells.h"
+	"headers/winStuff.h"
+	"headers/loseStuff.h"
+	"headers/printingAndOther.h"
+
+1482796567 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\newgamestuff.h
+
+1482680122 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\inputvalidation.h
+
+1482683432 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\save.h
+
+1482676197 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\graphicsstuff.h
+
+1482931235 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\dealingwithcells.h
+
+1482098368 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\winstuff.h
+
+1482575074 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\losestuff.h
+
+1482576990 d:\programming\projects\c - csed laps\minesweeper-the-final-project-13\minesweeper-the-final-project-final-\minesweeper-the-final-project (14)\minesweeper - the final project\headers\printingandother.h
+
