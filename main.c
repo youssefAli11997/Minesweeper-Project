@@ -176,6 +176,13 @@ int main(){
         if( (action=='O' || action=='o') && firstOpenAction){
             mineIntialize(hidden_field,numberOfMines,raw,col,n,m);
             revealNums(hidden_field,n,m); //generating the hidden_field
+            FILE * Debug ;   //Printing Debug File
+            Debug = fopen("Debug.txt","w");
+            for(i=0;i<n;i++){
+                for(j=0;j<m;j++){
+                    fprintf(Debug,"%c ",hidden_field[i][j]);}
+            fprintf(Debug,"\n");}
+            fclose(Debug);
             firstOpenAction = 0;
         }
         gameMoves(hidden_field,shown_field,raw,col,action,n,m);
