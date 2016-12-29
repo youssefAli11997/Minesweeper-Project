@@ -16,7 +16,7 @@
 #include <string.h>
 #include <math.h>
 
-int isCellVisited[40][40]; // global to be seen for every function
+int isCellVisited[200][200]; // global to be seen for every function
 int numberOfFlags = 0;
 int numberOfQuestionMarks = 0;
 
