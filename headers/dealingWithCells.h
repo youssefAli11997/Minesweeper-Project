@@ -98,7 +98,7 @@ void openAllReachable(char arr[200][200], char arr2[200][200], int i, int j, int
                     continue;
                 if(x==i && y==j)
                     continue;
-                if(isVisited[x][y]!=0)
+                if(isCellVisited[x][y]!=0)
                     continue;
                 arr2[x][y] = arr[x][y];
                 isCellVisited[x][y] = 1;
