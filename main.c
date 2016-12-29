@@ -62,13 +62,6 @@ int main(){
         newGame(shown_field,n,m);
         newGame(hidden_field,n,m);
         isVisitedInitialize();
-        int v,k;
-        for(v=0; v<n; v++){
-            for(k=0; k<m; k++){
-                printf("%d ",isCellVisited[v][k]);
-            }
-            printf("\n");
-        }
 
         // printing the field to start playing
         printArr(shown_field,n,m);
