@@ -30,7 +30,7 @@ void gameMoves(char arr[200][200],char arr2[200][200],int x,int y,char m,int r,i
             openOpenedCell(arr,arr2,x,y,r,c);
         else if(arr2[x][y] !='F'){
             openThisCell(arr,arr2,x,y);
-            openAllReachable(arr,arr2,isCellVisited,x,y,r,c);
+            openAllReachable(arr,arr2,x,y,r,c);
         }
     }
 }
@@ -75,7 +75,7 @@ void openThisCell(char arr[200][200], char arr2[200][200], int i, int j){
     arr2[i][j] = arr[i][j];
 }
 
-void openAllReachable(char arr[200][200], char arr2[200][200], char isVisited[200][200], int i, int j, int n, int m){
+void openAllReachable(char arr[200][200], char arr2[200][200], int i, int j, int n, int m){
     int x,y,counter=0;
     // check whether any mine is adjacent to the cell
     for(x=i-1; x<=i+1; x++){
@@ -101,8 +101,8 @@ void openAllReachable(char arr[200][200], char arr2[200][200], char isVisited[20
                 if(isVisited[x][y]!=0)
                     continue;
                 arr2[x][y] = arr[x][y];
-                isVisited[x][y] = 1;
-                openAllReachable(arr,arr2,isVisited,x,y,n,m);
+                isCellVisited[x][y] = 1;
+                openAllReachable(arr,arr2,x,y,n,m);
             }
         }
     }
